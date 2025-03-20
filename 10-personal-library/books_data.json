@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Shahab Nama",
+        "author": "Shahab Khan",
+        "year": "2025",
+        "genre": "Nama",
+        "read": true
+    },
+    {
+        "title": "Think and Grow Rich",
+        "author": "Neoplian Hill",
+        "year": "2018",
+        "genre": "Richness",
+        "read": false
+    },
+    {
+        "title": "History Of subcontinent",
+        "author": "Mian Azmat Farooq",
+        "year": "2022",
+        "genre": "The POint",
+        "read": false
+    },
+    {
+        "title": "Muhammad",
+        "author": "Al Bukhari",
+        "year": "713 A.H",
+        "genre": "The Last Prophet of Islam",
+        "read": false
+    }
+]
